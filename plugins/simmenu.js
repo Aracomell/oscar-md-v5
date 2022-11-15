@@ -8,7 +8,7 @@ let PhoneNumber = require("awesome-phonenumber");
 let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
   let hao = ` 
  *Official Bot By @${"0".split("@")[0]}* 
- *Powered By @${"6282146218274".split("@")[0]}*`;
+ *Powered By @${"6289504231588".split("@")[0]}*`;
   let package = JSON.parse(
     await fs.promises
       .readFile(path.join(__dirname, "../package.json"))
@@ -62,7 +62,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
   const jamm = Math.floor((lebih % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
   const menitt = Math.floor((lebih % (1000 * 60 * 60)) / (1000 * 60));
   const detikk = Math.floor((lebih % (1000 * 60)) / 1000);
-  const ultah = new Date("April 5, 2023 23:59:59");
+  const ultah = new Date("Maret 12, 2023 23:59:59");
   const sekarat = new Date().getTime();
   const Kurang = ultah - sekarat;
   const ohari = Math.floor(Kurang / (1000 * 60 * 60 * 24));
@@ -136,7 +136,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
 ┏┆⚘ 𝙱𝚘𝚝 𝙽𝚊𝚖𝚎 : 𝘒𝘶𝘳𝘶𝘴𝘩𝘪-MD
 ┆┆⚘ 𝙲𝚛𝚎𝚊𝚝𝚘𝚛
 ┆┆⚘ 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙾𝚠𝚗𝚎𝚛
-┆┆http://wa.me/6282146218274
+┆┆http://wa.me/6289504231588
 ┆┆⚘ 𝚃𝚊𝚗𝚐𝚐𝚊𝚕: ${date}
 ┆┆⚘ 𝙹𝚊𝚖: ${time} WIB
 ┆┆⚘ 𝙼𝚘𝚍𝚎: 「 ${mode}  」
@@ -160,7 +160,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
   let ftt = `NOTE 📮 JIKA MENEMUKAN BUG/FITUR EROR SILAHKAN CHAT OWNER KAK JANGAN LUPA SUSCRIBE YOUTUBE BOT SEBAGAI BENTUK SUPORT BOT
 
  *Official Bot By @${"0".split("@")[0]}* 
- *Powered By @${"6282146218274".split("@")[0]}*`;
+ *Powered By @${"6289504231588".split("@")[0]}*`;
   const listMessage = {
     text: `𝙷𝚊𝚒 ${name} Jangan 𝚂𝚙𝚊𝚖 𝚈𝚊`.trim(),
     footer: "Jangan Lupa Suscribe YouTube Bot Yah Kak >//<",
