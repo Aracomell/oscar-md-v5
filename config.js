@@ -1,11 +1,11 @@
-global.you = ['6282146218274'] 
+global.you = ['6289504231588'] 
 //Developer Bot
-global.gc = 'https://chat.whatsapp.com/BcVGEUc1gHR78CpYQPM2ic'
-global.rowner = ['6282146218274'] // Real Owner Bot
-global.owner = ['6282146218274'] // Owner Bot
-global.police = ['6282146218274'] // Police Bot
-global.mods = ['6282146218274']  // Want some help?
-global.prems = ['6282146218274'] // Premium user has unlimited limit
+global.gc = 'https://chat.whatsapp.com/KNkpoT4oX5yFA18GlPttgl'
+global.rowner = ['6289504231588'] // Real Owner Bot
+global.owner = ['6289504231588'] // Owner Bot
+global.police = ['6289504231588'] // Police Bot
+global.mods = ['6289504231588']  // Want some help?
+global.prems = ['6289504231588'] // Premium user has unlimited limit
 global.fotonya1 = 'https://telegra.ph/file/0e4fb9bfb49f985ef053e.jpg' //ini kalo mau di ganti silahkan ganti aja
 global.fotonya2 = 'https://telegra.ph/file/0e4fb9bfb49f985ef053e.jpg' //gw lupa nih foto apa aja:v
 global.fotonya3 = 'https://telegra.ph/file/0e4fb9bfb49f985ef053e.jpg' //ini juga ganti
@@ -15,7 +15,7 @@ global.fotonya6 = 'https://telegra.ph/file/0e4fb9bfb49f985ef053e.jpg' //ini gant
 global.fotonya7 = 'https://telegra.ph/file/0e4fb9bfb49f985ef053e.jpg'
 global.instagram = 'https://instagram.com/riellxd_4'
 
-global.helper = ['6282146218274']
+global.helper = ['62895504231588']
 global.APIs = { // API Prefix
   // name: 'https://website'
   amel: 'https://melcanz.com',
@@ -83,8 +83,8 @@ global.fsizedoc = '564588643' // default 10TB
 global.fpagedoc = '444'
 
 // Sticker WM
-global.packname = '×͜× ▭▬▭▬▭▬ 👑 ▭▬▭▬▭▬ ×͜×\nﾒ 𝗖𝗿𝗲𝗮𝘁𝗲𝗱 𝗕𝘆 𝗥𝗶𝗲𝗹𝗹𝗫𝗱 𝗫 𝘄𝗮𝗵𝘆𝘂 𝗮𝗻𝗶𝗺𝗲𝗸\nﾒ 𝗖𝗿𝗲𝗮𝘁𝗼𝗿 𝗞𝗮𝘆𝗹𝗮 : 082146218274\nﾒ 𝗬𝗼𝘂𝘁𝘂𝗯𝗲 : 𝗥𝗶𝗲𝗹𝗹𝗯𝗼𝘁𝘇 𝗢𝗳𝗳𝗰\n⊟————————⊟'
-global.author = 'RiellGanzz'
+global.packname = '×͜× ▭▬▭▬▭▬ 👑 ▭▬▭▬▭▬ ×͜×\nﾒ 𝗖𝗿𝗲𝗮𝘁𝗲𝗱 𝗕𝘆 AraaMd\nﾒ Creator Araa : 089504231588\nﾒ YouTube : ARAA PRESET\n⊟————————⊟'
+global.author = 'AraaKawaii'
 global.wm = '© Khurushi Md'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
